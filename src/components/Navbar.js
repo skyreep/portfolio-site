@@ -23,7 +23,7 @@ export default function Navbar() {
         </nav>
         <a
           href="https://drive.google.com/file/d/1gc_YH5AqCUJN00ClbrKkPwO4j0GcAB3t/view?usp=sharing" target="blank" 
-          className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
+          className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 text-base mt-4 md:mt-0">
           Resume
         </a>
         <a
