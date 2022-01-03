@@ -20,10 +20,12 @@ export default function Navbar() {
           <a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
           </a>
-          <a href="https://drive.google.com/file/d/1gc_YH5AqCUJN00ClbrKkPwO4j0GcAB3t/view?usp=sharing" target="blank" className="mr-5 hover:text-white">
-            Resume
-          </a>
         </nav>
+        <a
+          href="https://drive.google.com/file/d/1gc_YH5AqCUJN00ClbrKkPwO4j0GcAB3t/view?usp=sharing" target="blank" 
+          className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
+          Resume
+        </a>
         <a
           href="#contact"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
