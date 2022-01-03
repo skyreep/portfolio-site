@@ -36,10 +36,10 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Skyler was very personable and was well-liked by our clients. His service skills are as close to perfection as anyone I have ever managed. Our fast-paced business was, at times, a model of controlled chaos. Skyler performed admirably in quickly solving problems such as filling cancelled appointments and managing client expectations. He demonstrated a high level of communication skills in both face-to-face and telephone interactions. Service was a key differentiator in our business and Skyler was an important part of executing on this strategic initiative.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    name: "Rob Tate",
+    company: "Waggers Dog Depot",
   },
   {
     quote:
