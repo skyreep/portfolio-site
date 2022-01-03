@@ -12,7 +12,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            With over 5 years of hands-on software development experience, I have the skills to tackle projects across a variety of tech stacks. More importantly, I've learned to quickly parse new technologies in order to quickly and effectively problem solve using any toolset.
+            With over 5 years of hands-on software development experience, I have the skills to tackle projects across a variety of technology stacks.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
